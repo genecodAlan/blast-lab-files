@@ -1,6 +1,6 @@
 # blast-lab-files
 
-##For Berkeley Students
+## For Berkeley Students
 
 You can access the files for your BLAST lab here if the Google Drive is no longer working. This is a permanent site available. 
 
